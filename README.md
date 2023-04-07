@@ -1,1 +1,1 @@
-# vijaya_hls_assignments-
+# vijaya_hls_assignments- As we are well known about verilog ,not in every case we can write verilog for higher order data ,in that case c++,c ,system C is useful for accuracy speed and etc.So Vivado hls synthesize our own code to Vivado Ip so that we can check the output in verilog and check using hardware setup.
